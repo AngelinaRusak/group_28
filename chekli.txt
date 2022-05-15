@@ -1,0 +1,11 @@
+Section:
+Check List ID:
+Check List Summary:
+Environment:
+Expected Result:
+Actual Result:
+Status:
+Created By (Nickname QA):
+Bug Report Link:
+Date:
+
