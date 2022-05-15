@@ -1,0 +1,18 @@
+  bug name: one
+  
+  area path: two
+  build number: three
+  
+  severity: four
+  priority: five
+  
+  assigned to: six
+  reported by: seven
+  
+  status: eight
+  
+  environment: nine
+  
+  description: ten
+  
+  steps to reproduce: eleven 
